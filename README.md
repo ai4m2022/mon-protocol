@@ -4,26 +4,26 @@ This script automates the process of claiming quests in the Mon Protocol platfor
 
 ## Usage
 
-1. **Accessing the Browser Console:**
+1. **Truy cập Bảng điều khiển Trình duyệt:**
 
-    - Open your web browser (Google Chrome, Firefox, etc.).
-    - Navigate to the Mon Protocol platform (https://app.monprotocol.ai/).
-    - Press `F12` or right-click on the page and select "Inspect" to open the Developer Tools.
-    - Navigate to the "Console" tab.
+    - Mở trình duyệt web của bạn (Google Chrome, Firefox, v.v.).
+    - Truy cập (https://app.monprotocol.ai/).
+    - Nhấp `F12` hoặc click chuột phải và chọn "Inspect" để mở Developer Tools.
+    - Chọn "Console" tab.
 
-2. **Login to Your Account:**
+2. **Login vào acc của bạn:**
 
-    - Enter your credentials and log in to your Mon Protocol account.
+    - Đăng nhập bằng twitter
 
 3. **Paste the Code:**
 
-    - Copy the code from `index.js` file.
-    - Paste the code into the browser console.
+    - Copy từ `index.js` file.
+    - Paste the code.
 
 4. **Run the Script:**
 
-    - Press `Enter` to execute the script.
-    - The script will automatically claim quests for you.
+    - Nhấn `Enter` để chạy.
+
 
 ## Disclaimer
 
